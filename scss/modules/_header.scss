@@ -1,5 +1,6 @@
 .header-profile {
-    background-color: aliceblue;
+    @include transparent-gradient(rgba(azure, 0.4), rgba(dodgerblue, 0.1));
+    background-color: #f5f5f5;
 }
 
 .banner {
