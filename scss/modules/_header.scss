@@ -1,0 +1,31 @@
+.header-profile {
+    background-color: aliceblue;
+}
+
+.banner {
+    height: 30%;
+    // height: auto;
+}
+
+img.profile-pic {
+    width: 30%;
+    height: 30%;
+    border-radius: 50%;
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+  img.profile-pic {
+    height: 60%;
+    width: 60%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  img.profile-pic {
+    height: 80%;
+    width: 80%;
+  }
+}

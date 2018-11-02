@@ -1,0 +1,33 @@
+{
+  "name": "digital-namecard",
+  "version": "1.0.0",
+  "description": "digital business card",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "cssnano": "^4.1.7",
+    "gulp-plumber": "^1.2.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "rucksack-css": "^1.0.2"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sh-list/digital-namecard.git"
+  },
+  "keywords": [
+    "SCSS",
+    "gulp"
+  ],
+  "author": "Sharon Irish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sh-list/digital-namecard/issues"
+  },
+  "homepage": "https://github.com/sh-list/digital-namecard#readme"
+}

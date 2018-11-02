@@ -1,0 +1,26 @@
+/* --------------------------------------------------------------
+   Fonts
+-------------------------------------------------------------- */
+@font-face {
+    font-family: 'karlaregular';
+    src: url('/assets/fonts/karla-regular-webfont.woff2') format('woff2'),
+         url('/assets/fonts/karla-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'karlabold';
+    src: url('/assets/fonts/karla-bold-webfont.woff2') format('woff2'),
+         url('/assets/fonts/karla-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'glegoobold';
+    src: url('/assets/fonts/glegoo-bold-webfont.woff2') format('woff2'),
+         url('/assets/fonts/glegoo-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
